@@ -2,4 +2,6 @@
 
 /**/pkg/*
 
+/**/*.zip
+/**/camtron*/*
 *.exe
